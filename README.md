@@ -132,14 +132,6 @@ data/analytics/final_dataset.csv
 * Cloud storage integration
 * Data validation and logging
 
-
-## What I Learned
-
-- Designing scalable data pipelines  
-- Handling messy and inconsistent data  
-- Structuring data using layered architecture  
-- Automating batch processing workflows
-
 ---
 
 ## Purpose
